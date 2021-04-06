@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zaozersky/static/css/main.29d0583e.chunk.css",
-    "main.js": "/zaozersky/static/js/main.198d2927.chunk.js",
-    "main.js.map": "/zaozersky/static/js/main.198d2927.chunk.js.map",
+    "main.js": "/zaozersky/static/js/main.dce79505.chunk.js",
+    "main.js.map": "/zaozersky/static/js/main.dce79505.chunk.js.map",
     "runtime-main.js": "/zaozersky/static/js/runtime-main.eb694fcc.js",
     "runtime-main.js.map": "/zaozersky/static/js/runtime-main.eb694fcc.js.map",
     "static/js/2.14954cb4.chunk.js": "/zaozersky/static/js/2.14954cb4.chunk.js",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.eb694fcc.js",
     "static/js/2.14954cb4.chunk.js",
     "static/css/main.29d0583e.chunk.css",
-    "static/js/main.198d2927.chunk.js"
+    "static/js/main.dce79505.chunk.js"
   ]
 }
